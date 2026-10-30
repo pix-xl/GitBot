@@ -1,0 +1,7 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    { "name": "Run bot", "type": "debugpy", "request": "launch",
+      "module": "gitbot", "envFile": "${workspaceFolder}/.env", "console": "integratedTerminal" }
+  ]
+}
